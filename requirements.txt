@@ -1,0 +1,11 @@
+roboflow
+ultralytics
+torch
+torchvision
+torchmetrics
+pycocotools
+pandas
+matplotlib
+numpy
+opencv-python
+seaborn
