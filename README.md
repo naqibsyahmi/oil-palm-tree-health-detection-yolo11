@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 
-## ❗️Problem Statement
+### ❗️Problem Statement
 
 Oil palm plantation monitoring is traditionally carried out through manual visual inspection, which presents several operational challenges. This process is labor-intensive, as plantation workers are required to physically inspect individual trees, demanding significant manpower and physical effort. In large-scale plantations, this approach becomes increasingly impractical. 
 
@@ -11,7 +11,7 @@ In addition, manual inspection is time-consuming, often requiring hours or even 
 The assessment of tree health is also subjective and inconsistent, as judgements of healthy versus unhealthy trees can vary between workers depending on their experience and expertise. Such variability leads to inconsistent and error-prone evaluations, increasing the likelihood of misclassification. 
 As a result of these limitations, overall productivity is reduced, since delayed or inaccurate inspections can postpone necessary treatment or maintenance actions. This may ultimately lead to reduced yield and the progression of unhealthy crop conditions across the plantation. 
 
-## 🎯 Project Objectives
+### 🎯 Project Objectives
 
 1. To develop an object detection model that can automatically identify individual oil palm trees and classify each one as Healthy or Unhealthy. 
 
@@ -23,7 +23,7 @@ As a result of these limitations, overall productivity is reduced, since delayed
 
 ### Preliminaries
 
-1. **Python 3.10+**: Please ensure that Python 3.10 or higher is installed on your system before running this project. You can download the required version from the official website [Install Python](https://www.python.org/downloads/).
+1. **Python 3.10++**: Please ensure that Python 3.10 or higher is installed on your system before running this project. You can download the required version from the official website [Install Python](https://www.python.org/downloads/).
 
 ### Setting Up the Environment
 
@@ -68,7 +68,7 @@ As a result of these limitations, overall productivity is reduced, since delayed
     pip3 install -r requirements.txt
     ```
 
-### Running the System
+### Running the Notebook
 
 1. Run the following command to execute the notebook to download the dataset
     ```
@@ -79,5 +79,5 @@ As a result of these limitations, overall productivity is reduced, since delayed
     ```
     cd src
     ```
-
-3. Run the **`Oil_Palm_Tree_Health.ipynb`** notebook to run the analysis:
+    
+3. Run the **`Oil_Palm_Tree_Health.ipynb`** notebook to run the analysis
